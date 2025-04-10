@@ -173,7 +173,7 @@ const LandingPage = () => {
         <div className="contact-details">
           <div className="contact-item">
             <FaWhatsapp className="contact-icon" />
-            <span>+91 75581 97152</span>
+            <span>+91 80723 92606</span>
           </div>
           <div className="contact-item">
             <FaEnvelope className="contact-icon" />
